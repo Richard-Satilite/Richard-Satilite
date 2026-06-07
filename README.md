@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00daf8,ad00fe&height=200&section=header&text=Richard%20Satilite&fontSize=52&fontColor=baf2ff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Brazil&descAlignY=60&descColor=bac9cd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:52525&height=300&section=header&text=Richard%20Satilite&fontSize=52&fontColor=fcfcfc&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Brazil&descAlignY=60&descColor=bac9cd" width="100%"/>
 
 <h1>
   <samp>📨 Wanna Contact?</samp>
@@ -183,7 +183,7 @@ Modeling ecosystems based on robust, secure, and scalable architectural patterns
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00daf8,ad00fe&height=120&section=footer&fontColor=baf2ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:52525&height=180&section=footer&fontColor=baf2ff" width="100%"/>
 
 <sub>© 2026 · Built with the <strong>Obsidian Flux</strong> design system</sub>
 
