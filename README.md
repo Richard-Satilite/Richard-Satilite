@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00daf8,ad00fe&height=200&section=header&text=Richard%20Satilite&fontSize=52&fontColor=baf2ff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Brazil&descAlignY=60&descColor=bac9cd" width="100%"/>
 
 <h1>
-  
-  &nbsp;
   <samp>📨 Wanna Contact?</samp>
 </h1>
 
